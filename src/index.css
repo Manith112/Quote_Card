@@ -18,7 +18,7 @@
 }
 .card{
   width: 550px;
-  background-image: url("../bg-image-random-quote.svg");
+  background-image: url("../public/bg-image-random-quote.svg");
   background-repeat: no-repeat;
   background-color: #20293A;
   padding: 35px 20px 45px 20px;
@@ -32,7 +32,7 @@
 .card .name {
   color: white;
   font-size: 1rem;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .card .tag{
   border: 1px solid #6466E9;

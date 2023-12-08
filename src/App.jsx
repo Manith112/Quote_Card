@@ -52,8 +52,8 @@ useEffect(() => {
         <p className='para'>"{data.content}"</p>
       </div>
       <div className='random'>
-        <span onClick={getFetch}><img src="./Regroup.svg" alt="" id='link'/></span>
-        <span onClick={copyToClipboard}><img src="./link.svg" alt="" id='group'/></span>
+        <span onClick={getFetch}><img src="./public/Regroup.svg" alt="" id='link'/></span>
+        <span onClick={copyToClipboard}><img src="./public/link.svg" alt="" id='group'/></span>
       </div>
     </div>
      
